@@ -4,7 +4,7 @@ Corriendo el proyecto
 
 ## 1. Clona el repositorio en tu computadora
 
-- git clone https://github.com/turepositorio.git
+- git clone https:https://github.com/ManuelVerutti/prueba_tecnica_torneosgg.git
 
 ## 2. Instala las dependencias necesarias
 
